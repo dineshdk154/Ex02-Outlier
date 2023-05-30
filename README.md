@@ -195,6 +195,10 @@ Boxplot after removal of outliers using IQR method
 
 ![image](https://user-images.githubusercontent.com/128135186/230094595-bb3a6b50-c06a-4683-949f-5d6922c8fda7.png)
 
+# RESULT:
+
+Thus, the given data is read, and the outliers are found.
+
 
 
 
